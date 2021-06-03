@@ -24,6 +24,6 @@ class App extends Component {
 
 const mapStateToProps = (state) => {
   return { items: state.items };
-}
+};
 
 export default App;
